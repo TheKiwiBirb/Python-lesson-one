@@ -1,6 +1,6 @@
-# Dit script geeft het kwadraat 
+# This script returns the square
 
-print('Geef een getal:')
-getal = input()
-print('Het getal '+getal+' in het kwadraat')
-print(str(int(getal)) +' '+ str(int(getal)*int(getal)))
+print('Give a number:')
+number = input()
+print('the number '+number+' squared')
+print(str(int(number)) +' '+ str(int(number)*int(number)))
